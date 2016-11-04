@@ -13,7 +13,7 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package ocrreader;
+package com.google.android.gms.samples.vision;
 
 import android.Manifest;
 import android.annotation.SuppressLint;
@@ -47,6 +47,8 @@ import com.google.android.gms.samples.vision.barcode.BarcodeTrackerFactory;
 import com.google.android.gms.samples.vision.barcode.camera.CameraSource;
 import com.google.android.gms.samples.vision.barcode.camera.CameraSourcePreview;
 import com.google.android.gms.samples.vision.barcode.camera.GraphicOverlay;
+import com.google.android.gms.samples.vision.ocr.OcrDetectorProcessor;
+import com.google.android.gms.samples.vision.ocr.OcrGraphic;
 import com.google.android.gms.vision.MultiDetector;
 import com.google.android.gms.vision.MultiProcessor;
 import com.google.android.gms.vision.barcode.BarcodeDetector;

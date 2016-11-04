@@ -13,7 +13,7 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package ocrreader;
+package com.google.android.gms.samples.vision.ocr;
 
 import android.graphics.Canvas;
 import android.graphics.Color;

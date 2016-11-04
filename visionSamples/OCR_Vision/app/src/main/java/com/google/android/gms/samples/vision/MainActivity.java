@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package ocrreader;
+package com.google.android.gms.samples.vision;
 
 import android.app.Activity;
 import android.content.Intent;
@@ -25,7 +25,6 @@ import android.widget.CompoundButton;
 import android.widget.TextView;
 
 import com.google.android.gms.common.api.CommonStatusCodes;
-import com.google.android.gms.samples.vision.R;
 
 /**
  * Main activity demonstrating how to pass extra parameters to an activity that
